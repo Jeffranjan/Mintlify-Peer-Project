@@ -1,16 +1,14 @@
 # Mintlify Landing Page Clone
 
-This project is a desktop-first recreation of the [Mintlify](https://mintlify.com/) documentation platform's landing page. It was built using pure HTML and CSS as part of a Web Development Cohort assignment, focusing on content structure, readability, layout accuracy, and overall fidelity to the original design.
+This project is a desktop-first recreation of the [Mintlify](https://mintlify.com/) documentation platform's landing page. It was built using pure HTML and CSS as part of a Web Development Cohort Peer Project Assingment by [Chai Code](https://www.chaicode.com/)
 
 ## 🚀 Live Demo
 
-<!-- Add your hosted website link here, e.g., https://yourusername.github.io/Mintlify-Peer-Project/ -->
-
-[Coming Soon...]
+[Live Demo](https://jeffranjan.github.io/Mintlify-Peer-Project/)
 
 ## 📸 Screenshots
 
-_(Include screenshots of your final output here)_
+![Screenshot](./assets/Mintlify-Screenshot.png)
 
 ## 🛠️ Technologies Used
 
